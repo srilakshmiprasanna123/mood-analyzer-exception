@@ -1,10 +1,9 @@
 /**
- * Purpose  - Null Mood Should Return Happy
+ * Purpose  - NULL Mood Should Throw  MoodAnalysisException
  * @author  - Sri Lakshmi Prasanna
  * @version - 16.0
  * @since   - 01-04-2022
  */
-
 
 
 /**
