@@ -12,6 +12,7 @@
 public class MoodAnalyserMain {
     private String message;
 
+
     /**
      * create a default constructor name as MoodAnalyserMain
      */
