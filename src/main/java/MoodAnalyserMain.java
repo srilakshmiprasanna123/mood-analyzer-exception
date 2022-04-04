@@ -1,5 +1,5 @@
 /**
- * Purpose  - NULL Mood Should Throw  MoodAnalysisException
+ * Purpose  - Empty Mood Should Throw  MoodAnalysisException
  * @author  - Sri Lakshmi Prasanna
  * @version - 16.0
  * @since   - 01-04-2022
@@ -11,7 +11,6 @@
  */
 public class MoodAnalyserMain {
     private String message;
-
 
     /**
      * create a default constructor name as MoodAnalyserMain
